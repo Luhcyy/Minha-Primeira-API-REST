@@ -19,5 +19,5 @@
 
 - <a href="https://tomcat.apache.org/">![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23323330.svg?style=for-the-badge&logo=apache-tomcat&logoColor=white)<a>
 
-- <a href="https://spring.io/projects/spring-boot">![VS Code Insiders](https://img.shields.io/badge/vs%20code%20insiders-%23323330.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)<a>
+- <a href="https://code.visualstudio.com/insiders/">![VS Code Insiders](https://img.shields.io/badge/vs%20code%20insiders-%23323330.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)<a>
  
